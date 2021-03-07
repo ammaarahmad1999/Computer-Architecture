@@ -1,0 +1,9 @@
+ERROR: A non numerical value present, data or set instruction requires numeric value on line 3
+ERROR: A non numerical value present, data or set instruction requires numeric value on line 4
+ERROR: Extra information on line 8, maybe there is mistype error
+ERROR: Invalid Octal number starting with 0 on line 5
+ERROR: Invalid hexadecimal number starting with 0x on line 6
+ERROR: A non decimal value present on line 7
+WARNING: unused label with name val3:
+WARNING: unused label with name val4:
+WARNING: unused label with name val5:

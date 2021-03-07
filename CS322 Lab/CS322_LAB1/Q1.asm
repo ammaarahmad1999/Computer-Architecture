@@ -1,0 +1,12 @@
+1. Swapping 2 Numbers
+#ORG 2000H
+# BEGIN 2000H
+	   LDA 2050
+	   MOV B,A
+	   LDA 2051
+	   STA 2050
+	   MOV A,B
+	   STA 2051
+	   HLT
+# ORG 2050H
+# DB 49H, 5FH

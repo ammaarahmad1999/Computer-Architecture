@@ -1,0 +1,10 @@
+ERROR: A duplicate label was found on line 4
+ERROR: Extra information on line 9, maybe there is mistype error
+ERROR: Invalid label name on line 10
+ERROR: Illegal mnemonic on line 11
+ERROR: Illegal mnemonic on line 12
+ERROR: A non existent label was found on line 5
+ERROR: Invalid Octal number starting with 0 on line 6
+ERROR: operand expected on line 7
+ERROR: Unexpected operand present on line 8
+WARNING: unused label with name label:
